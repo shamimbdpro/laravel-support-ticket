@@ -15,7 +15,7 @@ If you use https, use this instead
 ## Setting Up
 Setup your database and `cd` into the project directory then run:
 
-```git@github.com:shamimbdpro/laravel-support-ticket.git```
+```php artisan migrate:fresh --seed```
 
 Once the database is settup and migrations are up, run
 
